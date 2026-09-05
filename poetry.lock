@@ -3,5 +3,5 @@ package = []
 
 [metadata]
 lock-version = "2.0"
-python-versions = "3.11.4"
-content-hash = "26c49f7bed8ed2a19b37f0bb31e8409d59504ace43c31caffec70359d522b261"
+python-versions = "3.14.7"
+content-hash = "25da337e0fda98cea20d97aab91160145d821fbac353a3dc99474809dfb2ea05"
