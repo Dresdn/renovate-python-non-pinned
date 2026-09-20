@@ -1,7 +1,7 @@
 # syntax = docker/dockerfile:1
 
 # Development build stage
-FROM python:3.11.4-alpine as development_build
+FROM python:3.14.7-alpine@sha256:016508ba505da24f7139765bc4bb669df4e88eb2f12eeadd571bf2f88d7533df as development_build
 WORKDIR /app
 CMD echo "Hello World - Development"
 
